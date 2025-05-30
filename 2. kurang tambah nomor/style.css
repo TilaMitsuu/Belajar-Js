@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(218, 216, 216);
+}
+
+.card{
+    background-color: white;
+    text-align: center;
+    padding: 10% 15%;
+    margin: 10% 25%;
+    font-size: xxx-large;
+    border-radius: 20px;
+}
+
+button{
+    background-color: rgb(218, 216, 216);
+    border: none;
+    padding: 3%;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: rgb(166, 166, 166);
+}
