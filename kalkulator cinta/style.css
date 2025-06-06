@@ -16,6 +16,7 @@ input{
     border: none;
     padding: 1em;
     border-radius: 20px;
+    margin: 1em;
 }
 
 button{
@@ -27,3 +28,4 @@ button{
 button:hover{
     background-color: pink;
 }
+

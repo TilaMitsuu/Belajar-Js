@@ -18,7 +18,7 @@ if(halo.value !== ""){ //!=="" itu biar js ngecek di value/isinya tidak kosong
     halo.disabled= true //nah kan disabled, biar gabisa di ubah ubah
     namaKamu.disabled=false //biar input bawah nya gak ke disabled
 }else {
-    alert("kamu gmw nyapa aku:D?")
+    alert("kamu gmw nyapa aku:(?")
 }
 })
 

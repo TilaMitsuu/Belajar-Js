@@ -21,3 +21,5 @@ console.log(buah[4]);
 console.log(ttlBuah);
 console.log(index);
 
+//vid *Learn JavaScript ARRAYS in 8 minutes!  
+//tanpa ikutin looping(hanya ikut array nya saja)
